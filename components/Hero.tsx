@@ -28,7 +28,7 @@ function Hero() {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless experiences"
+            words="Transforming Visions into Reality with Backend Expertise"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Md Anisur Rahman, a Backend Developer based in
