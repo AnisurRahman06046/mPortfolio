@@ -1,3 +1,4 @@
+import MagicButton from "./ui/MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerate";
 
@@ -32,6 +33,10 @@ function Hero() {
             Hi, I&apos;m Md Anisur Rahman, a Backend Developer based in
             Bangladesh
           </p>
+          <a href="#about">
+            <MagicButton
+            title='Show my work' />
+          </a>
         </div>
       </div>
     </div>
