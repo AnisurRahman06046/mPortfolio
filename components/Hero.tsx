@@ -34,8 +34,7 @@ function Hero() {
             Bangladesh
           </p>
           <a href="#about">
-            <MagicButton
-            title='Show my work' />
+            <MagicButton title="Show my work" />
           </a>
         </div>
       </div>
