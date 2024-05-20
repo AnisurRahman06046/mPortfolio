@@ -1,8 +1,13 @@
+import { Spotlight } from "./ui/Spotlight"
 
 
 function Hero() {
   return (
-    <div>Hero</div>
+    <div className="pb-20 pt-36">
+      <div>
+        <Spotlight/>
+      </div>
+    </div>
   )
 }
 
