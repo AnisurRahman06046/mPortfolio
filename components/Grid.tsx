@@ -11,6 +11,11 @@ function Grid() {
             key={item.id}
             title={item.title}
             description={item.description}
+            className={item.className}
+            img={item.img}
+            imgClassName={item.imgClassName}
+            titileClassName={item.titleClassName}
+            spareImg={item.spareImg}
           ></BentoGridItem>
         ))}
       </BentoGrid>
